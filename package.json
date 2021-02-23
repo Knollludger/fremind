@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "electron-nightly": "^13.0.0-nightly.20210222"
+  }
+}
