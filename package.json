@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "electron-nightly": "^13.0.0-nightly.20210222"
+    "electron-nightly": "^13.0.0-nightly.20210222",
+    "prisma": "^2.21.2"
   }
 }
